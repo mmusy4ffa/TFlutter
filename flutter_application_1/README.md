@@ -25,3 +25,16 @@ setelah itu membuat folder assets dan memberi logo/gambar
 dan manambah const ImageWidget seperti sebelumnya
 ![Hasil](image-11.png)
 jika berhasil tampilan akan seperti gambar diatas
+
+Praktikum 4
+![Membuat stateless widget](image-15.png)
+langkah selanjutnya membuat cupertino button dan loading bar, lalu menggunakan code seperti gambar.
+![Menambahkan file fab](image-16.png)
+setelah itu menambahkan file fab_widget, dan menambahkan code dalam file lalu memasukan beberapa code di file "main.dart"
+![Main](image-17.png)
+dan mengganti code "headline4" menjadi "headlineMedium"
+![Dialog Widget](image-18.png)
+mengubah class Stateless Widget seperti gambar
+lalu menambahkan code di file "main.dart" dan menghapus file widget build sebelumnya, karena akan terjadi tabrakan jika tidak dihapus/komen ![Input](image-19.png)
+langkah yang terakhir mengubah/mengganti seluruh file "main" dan menambahkan copy code seperti gambar
+![Tanggal picker](image-20.png)
